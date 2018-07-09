@@ -13,7 +13,7 @@ Build RESTful APIs for Entity/Domain(Projects, Employee and Manager). Relationsh
 
 ### Solution: 
 
-1. `source apiTestDatabase.sql;`
+1. `source ~/apiTestDatabase.sql;`
     Run this command in mysql terminal to create databases, tables and inserting data.
 
 2. Shift to main directory `cd ~/Restful-Api`
@@ -21,6 +21,8 @@ Build RESTful APIs for Entity/Domain(Projects, Employee and Manager). Relationsh
 3. Start the server `npm start`
 
 4. Hit appropriate API Endpoint.
+
+
 
 
 > Made by 🔥 and Aniket Kumar
