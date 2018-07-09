@@ -1,0 +1,29 @@
+{
+  "name": "restful-api",
+  "version": "1.0.0",
+  "description": "Build RESTful APIs for Entity/Domain(Projects, Employee and Manager",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsVagabond/restful-api.git"
+  },
+  "keywords": [
+    "restful",
+    "api",
+    "ejs",
+    "express",
+    "nodejs",
+    "mysql"
+  ],
+  "author": "Aniket Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsVagabond/restful-api/issues"
+  },
+  "homepage": "https://github.com/itsVagabond/restful-api#readme"
+}
